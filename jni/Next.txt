@@ -1,0 +1,17 @@
+Upcoming improvements:
+
+Lighter background
+./ Improve the sizing of grid
+./ Set gradient on framerate
+ Fix the tabbing issue
+./ Center the score
+./ enlarge the score
+
+
+Upcoming Features:
+
+- Start Screen
+- Pause Screen
+- Let a NN do the job
+- Choose size of grid
+- Levels?????

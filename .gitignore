@@ -1,0 +1,7 @@
+bin
+libs
+obj
+Build.bat
+Logger.log
+local.properties
+.vscode
