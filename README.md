@@ -6,4 +6,5 @@ Circle-Pad support
 Button class  
   
 # Upcoming Features:  
-Neural Network automation
+Neural Network automation  
+Walls and levels
